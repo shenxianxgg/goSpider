@@ -1,0 +1,7 @@
+按照您的思路尝试了下 后面细节有点不大一致。
+4 获取好友列表的时候 
+  先去 https://login.wx.qq.com/cgi-bin/mmwebwx-bin/login 这个地址获取了ticket: ATnHdb4fhAI5-G-5k1mIF29v@qrticket_0
+  然后 再去https://wx.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage 这个地址获取到了skey
+  全程还需要开始的uuid的值 不过方式方法我学到了 谢谢🙏
+  顺便感慨下安全性还挺强大的
+  
